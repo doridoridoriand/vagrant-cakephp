@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/Dorian/heathrow/vagrant/vagrant-php/dev"},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Dorian/heathrow/vagrant/vagrant-php"},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef-3/chef-solo-1/cookbooks","hostpath":"/Users/Dorian/heathrow/vagrant/vagrant-php/cookbooks"}}}
